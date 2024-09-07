@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @itspawantiwari
+- 👋 Hi, I’m @itspawantiwarii
 - 👀 I’m interested in Astrophysics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Native app developments
-- 📫 Contact me on contact@pawantiwari.co.in
+- 📫 Contact me on pawan@wefiliates.com
 
 <!---
 itspawantiwari/itspawantiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
