@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itspawantiwarii
 - 👀 I’m interested in Astrophysics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning full stack dev and data science
 - 💞️ I’m looking to collaborate on Native app developments
 - 📫 Contact me on pawan@wefiliates.com
 
